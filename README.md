@@ -1,6 +1,6 @@
 🚀 Harnessing the Power of Transfer Learning with Xception! 🐱🐶
 
-In this project, we utilized transfer learning with the Xception model to classify images of cats and dogs. Here’s a quick rundown of the process:
+In this project, I utilized transfer learning with the Xception model to classify images of cats and dogs. Here’s a quick rundown of the process:
 
 🔹 Data Preparation: Loaded and split the cats_vs_dogs dataset into training, validation, and test sets.
 
